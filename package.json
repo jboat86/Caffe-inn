@@ -1,0 +1,15 @@
+{
+  "name": "caffe-inn",
+  "version": "1.0.0",
+  "description": "coffee shop website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coffee",
+    "caffe-inn"
+  ],
+  "author": "Jennifer Boateng",
+  "license": "ISC"
+}

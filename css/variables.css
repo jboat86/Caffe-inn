@@ -1,0 +1,15 @@
+/* theme colours */
+
+:root {
+  --terracotta: rgb(209, 189, 162);
+  --latte: rgb(196, 148, 90);
+  --stone-grey: rgb(73, 80, 75);
+  --brown: rgb(116, 58, 36);
+  --charcoal: rgb(16, 21, 21);
+}
+
+/* Typography */
+:root {
+  --ff-Itim: "Itim", cursive;
+  --ff-Frass: "Sassy Frass", cursive;
+}
